@@ -10,10 +10,10 @@
       "ssd": "256GB",
       "cpu": "Intel i5-7200U",
       "gpu": "Intel HD Graphics",
-      "imageUrl": "images/laptop1-1.jpg",
+      "imageUrl": "/images/laptop1-1.jpg",
       "screenType": "IPS",
       "screenResolution": "1920x1080",
-      "gallery": ["images/laptop1-2.png", "images/laptop1-3.png", "images/laptop1-4.png", "images/laptop1-5.png", "images/laptop1-6.png"]
+      "gallery": ["/images/laptop1-2.png", "/images/laptop1-3.png", "/images/laptop1-4.png", "/images/laptop1-5.png", "/images/laptop1-6.png"]
     },
     {
       "id": "2",
